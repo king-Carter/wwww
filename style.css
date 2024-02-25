@@ -1,0 +1,38 @@
+.items-scroller{
+    overflow-x:scroll;
+    overflow-y:scroll;
+    white-space: nowrap;
+   
+}
+.section-five-item{
+    background-color: #ffffff;
+    width:300px;
+    height:450px;
+    padding:30px;
+    border: 2px solid black;
+    display: inline-block;
+    
+    
+}
+.s5-img{
+    height:200px;
+    width:200px;
+
+}
+.s5-one-item{
+    width:300px;
+    border:2px solid black;
+    height:450px;
+    display: inline-block;
+    position: relative;
+}
+.img1{
+    height: 100%;
+    width:100%;
+}
+.s5-text{
+    position:absolute;
+    top:0;
+    white-space: normal;
+    
+}
